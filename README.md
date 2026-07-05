@@ -224,8 +224,9 @@ Publish the Power BI dashboard online.
 
 Expand the analysis with additional datasets.
 
-Author
-Sudipta Patra
+**Author**
+
+**Sudipta Patra**
 
 Aspiring Data Analyst
 
