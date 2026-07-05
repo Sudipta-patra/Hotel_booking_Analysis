@@ -30,7 +30,7 @@ PostgreSQL / SQL Server
 
 Power BI
 
-Microsoft PowerPoint
+Microsoft PowerPoint and Gamma (AI Tool)
 
 **Project Workflow-**
 
